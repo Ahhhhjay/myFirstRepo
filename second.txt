@@ -1,2 +1,4 @@
-Here is another text for new file
-Let's type something
+
+Here is another text for another file
+Let's type something!
+
